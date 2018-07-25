@@ -1,0 +1,13 @@
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg65\bin\Debug\CSharpAndNetFrameworkCourseExPg65.exe.config
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg65\bin\Debug\CSharpAndNetFrameworkCourseExPg65.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg65\bin\Debug\CSharpAndNetFrameworkCourseExPg65.pdb
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg65\obj\Debug\CSharpAndNetFrameworkCourseExPg65.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg65\obj\Debug\CSharpAndNetFrameworkCourseExPg65.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg65\obj\Debug\CSharpAndNetFrameworkCourseExPg65.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg65\CSharpAndNetFrameworkCourseExPg65\obj\Debug\CSharpAndNetFrameworkCourseExPg65.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg65\CSharpAndNetFrameworkCourseExPg65\obj\Debug\CSharpAndNetFrameworkCourseExPg65.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg65\CSharpAndNetFrameworkCourseExPg65\obj\Debug\CSharpAndNetFrameworkCourseExPg65.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg65\CSharpAndNetFrameworkCourseExPg65\obj\Debug\CSharpAndNetFrameworkCourseExPg65.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg65\CSharpAndNetFrameworkCourseExPg65\bin\Debug\CSharpAndNetFrameworkCourseExPg65.exe.config
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg65\CSharpAndNetFrameworkCourseExPg65\bin\Debug\CSharpAndNetFrameworkCourseExPg65.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg65\CSharpAndNetFrameworkCourseExPg65\bin\Debug\CSharpAndNetFrameworkCourseExPg65.pdb

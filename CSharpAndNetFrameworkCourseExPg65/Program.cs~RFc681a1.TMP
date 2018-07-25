@@ -1,0 +1,58 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace CSharpAndNetFrameworkCourseExPg65
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            //===== User Introduction Question =====// 
+            int choice;
+            
+
+            Console.WriteLine("Which equation do you want to perform?");
+            Console.WriteLine("1.Multiply your input by 50 and print the result.");
+            Console.WriteLine("2.Add 25 to your input and print the result.");
+            Console.WriteLine("3.Divide your input by 12.5 and print the result.");
+            Console.WriteLine("4.Check your input if it's greater than 50 then print true/false.");
+            Console.WriteLine("5.Divide your input by 7 and print the remainder.");
+            Console.WriteLine("Please choose a number between 1 and 5:");
+            choice = int.Parse(Console.ReadLine());
+
+            if (choice > 5 || choice < 0)
+                Console.WriteLine("Please enter a number between 1 and 5:");
+            else
+                Console.WriteLine("Thanks. Let's get started.");  
+                Console.ReadLine();
+
+
+            //===== Switch for Number Chosen =====// 
+            switch (choice)
+            { // "userFactor" for multiplication, "userDividend" for division, 
+              // "userAddend" for subtraction, "userCheckNumber" for any others
+                case choice = 1:
+                    do
+                    {
+                        Console.WriteLine("Give me the number you want to multiply: ");
+                        int userFactor = Console.ReadLine();
+                        int productTotal = userFactor * 50;
+                        Console.WriteLine(productTotal);
+
+                    }
+            }
+
+
+            Console.WriteLine("Give me a number.");
+           
+
+
+
+
+
+        }
+    }
+}
