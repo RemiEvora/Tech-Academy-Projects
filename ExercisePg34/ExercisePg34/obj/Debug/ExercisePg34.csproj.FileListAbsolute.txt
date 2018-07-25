@@ -1,0 +1,7 @@
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\ExercisePg34\obj\Debug\ExercisePg34.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\ExercisePg34\ExercisePg34\bin\Debug\ExercisePg34.exe.config
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\ExercisePg34\ExercisePg34\bin\Debug\ExercisePg34.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\ExercisePg34\ExercisePg34\bin\Debug\ExercisePg34.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\ExercisePg34\ExercisePg34\obj\Debug\ExercisePg34.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\ExercisePg34\ExercisePg34\obj\Debug\ExercisePg34.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\ExercisePg34\ExercisePg34\obj\Debug\ExercisePg34.pdb
