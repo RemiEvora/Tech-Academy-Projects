@@ -23,6 +23,8 @@ namespace CSharpAndNetFrameworkCourseExPg91
            if (packageWeight > 50)
             {
                 Console.WriteLine("Package too heavy to be shipped via Package Express. Have a good day.");
+                Console.ReadLine();
+                Environment.Exit(0);
             }
            else
             {
@@ -44,6 +46,8 @@ namespace CSharpAndNetFrameworkCourseExPg91
             if (totalDimensions > 50)
             {
                 Console.WriteLine("Your package is too large to be shipped via Package Express.");
+                Console.ReadLine();
+                Environment.Exit(0);
             }
             else
             {
