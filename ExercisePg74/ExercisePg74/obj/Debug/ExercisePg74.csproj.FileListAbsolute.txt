@@ -1,0 +1,7 @@
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\ExercisePg74\bin\Debug\ExercisePg74.exe.config
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\ExercisePg74\bin\Debug\ExercisePg74.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\ExercisePg74\bin\Debug\ExercisePg74.pdb
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\ExercisePg74\obj\Debug\ExercisePg74.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\ExercisePg74\obj\Debug\ExercisePg74.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\ExercisePg74\obj\Debug\ExercisePg74.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\ExercisePg74\obj\Debug\ExercisePg74.pdb
