@@ -1,0 +1,14 @@
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg99\bin\Debug\CSharpAndNetFrameworkCourseExPg99.exe.config
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg99\bin\Debug\CSharpAndNetFrameworkCourseExPg99.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg99\bin\Debug\CSharpAndNetFrameworkCourseExPg99.pdb
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg99\obj\Debug\CSharpAndNetFrameworkCourseExPg99.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg99\obj\Debug\CSharpAndNetFrameworkCourseExPg99.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg99\obj\Debug\CSharpAndNetFrameworkCourseExPg99.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpAndNetFrameworkCourseExPg99\obj\Debug\CSharpAndNetFrameworkCourseExPg99.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg99\CSharpAndNetFrameworkCourseExPg99\bin\Debug\CSharpAndNetFrameworkCourseExPg99.exe.config
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg99\CSharpAndNetFrameworkCourseExPg99\bin\Debug\CSharpAndNetFrameworkCourseExPg99.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg99\CSharpAndNetFrameworkCourseExPg99\bin\Debug\CSharpAndNetFrameworkCourseExPg99.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg99\CSharpAndNetFrameworkCourseExPg99\obj\Debug\CSharpAndNetFrameworkCourseExPg99.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg99\CSharpAndNetFrameworkCourseExPg99\obj\Debug\CSharpAndNetFrameworkCourseExPg99.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg99\CSharpAndNetFrameworkCourseExPg99\obj\Debug\CSharpAndNetFrameworkCourseExPg99.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpAndNetFrameworkCourseExPg99\CSharpAndNetFrameworkCourseExPg99\obj\Debug\CSharpAndNetFrameworkCourseExPg99.pdb
