@@ -1,0 +1,6 @@
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg105\CSharpExercisePg105\bin\Debug\CSharpExercisePg105.exe.config
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg105\CSharpExercisePg105\bin\Debug\CSharpExercisePg105.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg105\CSharpExercisePg105\bin\Debug\CSharpExercisePg105.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg105\CSharpExercisePg105\obj\Debug\CSharpExercisePg105.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg105\CSharpExercisePg105\obj\Debug\CSharpExercisePg105.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg105\CSharpExercisePg105\obj\Debug\CSharpExercisePg105.pdb
