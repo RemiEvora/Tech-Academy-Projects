@@ -1,0 +1,14 @@
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg110\bin\Debug\CSharpExercisePg110.exe.config
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg110\bin\Debug\CSharpExercisePg110.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg110\bin\Debug\CSharpExercisePg110.pdb
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg110\obj\Debug\CSharpExercisePg110.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg110\obj\Debug\CSharpExercisePg110.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg110\obj\Debug\CSharpExercisePg110.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg110\obj\Debug\CSharpExercisePg110.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg110\CSharpExercisePg110\bin\Debug\CSharpExercisePg110.exe.config
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg110\CSharpExercisePg110\bin\Debug\CSharpExercisePg110.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg110\CSharpExercisePg110\bin\Debug\CSharpExercisePg110.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg110\CSharpExercisePg110\obj\Debug\CSharpExercisePg110.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg110\CSharpExercisePg110\obj\Debug\CSharpExercisePg110.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg110\CSharpExercisePg110\obj\Debug\CSharpExercisePg110.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg110\CSharpExercisePg110\obj\Debug\CSharpExercisePg110.pdb
