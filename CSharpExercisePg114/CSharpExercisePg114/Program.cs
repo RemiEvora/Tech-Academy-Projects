@@ -16,7 +16,7 @@ namespace CSharpExercisePg114
             Console.WriteLine("Give me a number: ");
             int num01 = Convert.ToInt32(Console.ReadLine());
 
-            Console.WriteLine("Give me one more number. If you don't feel like it, just press the '0'/zero key.");
+            Console.WriteLine("Give me one more number. If you don't feel like it, just press 'asdf' or something.");
             string optionalNum02 = Console.ReadLine();
 
             if (!int.TryParse(optionalNum02, out int defaultNum02)) { defaultNum02 = 10; }
