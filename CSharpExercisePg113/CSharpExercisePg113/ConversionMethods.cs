@@ -24,11 +24,14 @@ namespace CSharpExercisePg113
             return Convert.ToInt32(num02 * 0.25); 
         }
 
-        public int StringSubtraction(string num03)
+        public void StringSubtraction(string num03)
         {
-            int convert03 = Int32.Parse(num03);
-            int subtract = convert03 - 5;
-            return subtract; 
+             int convert03 = Int32.Parse(num03);
+            
+
+            int answer = convert03 - 5;
+            Console.WriteLine(answer);
+            Console.ReadLine();
 
            
         }
