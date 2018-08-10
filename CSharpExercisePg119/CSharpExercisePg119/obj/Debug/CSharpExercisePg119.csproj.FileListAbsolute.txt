@@ -1,0 +1,14 @@
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg119\bin\Debug\CSharpExercisePg119.exe.config
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg119\bin\Debug\CSharpExercisePg119.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg119\bin\Debug\CSharpExercisePg119.pdb
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg119\obj\Debug\CSharpExercisePg119.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg119\obj\Debug\CSharpExercisePg119.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg119\obj\Debug\CSharpExercisePg119.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg119\obj\Debug\CSharpExercisePg119.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg119\CSharpExercisePg119\bin\Debug\CSharpExercisePg119.exe.config
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg119\CSharpExercisePg119\bin\Debug\CSharpExercisePg119.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg119\CSharpExercisePg119\bin\Debug\CSharpExercisePg119.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg119\CSharpExercisePg119\obj\Debug\CSharpExercisePg119.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg119\CSharpExercisePg119\obj\Debug\CSharpExercisePg119.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg119\CSharpExercisePg119\obj\Debug\CSharpExercisePg119.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg119\CSharpExercisePg119\obj\Debug\CSharpExercisePg119.pdb
