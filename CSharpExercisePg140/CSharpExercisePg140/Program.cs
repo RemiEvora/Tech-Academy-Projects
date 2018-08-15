@@ -38,11 +38,19 @@ namespace CSharpExercisePg140
             //{
             //    if (FName == "Joe")
             //    {
-                    
+                    //TODO: Add Joe entries to joeList
             //    }
 
             //}
-
+            
+            //foreach (string FName in EmployeeList)
+            {
+                if(Fname == "Joe") 
+                {
+                    //TODO: Add Joe entries to joeList
+                }
+            }
+            
 
             ////3. Do the same thing again, but this time with a lambda expression.
 
