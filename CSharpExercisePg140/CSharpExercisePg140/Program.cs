@@ -29,8 +29,7 @@ namespace CSharpExercisePg140
             };
 
             //2. Using a foreach loop, create a new list of all employees with the first name "Joe".
-            Console.WriteLine(EmployeeList);
-            Console.ReadLine();
+            
 
             //List<string> joeList = new List<string>();
 
