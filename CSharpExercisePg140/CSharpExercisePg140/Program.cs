@@ -31,29 +31,34 @@ namespace CSharpExercisePg140
             //2. Using a foreach loop, create a new list of all employees with the first name "Joe".
             
 
-            //List<string> joeList = new List<string>();
-
-            //foreach (Employee in EmployeeList)
-            //{
-            //    if (FName == "Joe")
-            //    {
-                    //TODO: Add Joe entries to joeList
-            //    }
-
-            //}
+            List<Employee> joeList = new List<Employee>();
             
-            //foreach (string FName in EmployeeList)
+            foreach(Employee name in EmployeeList)
             {
-                if(Fname == "Joe") 
+                if (name.FName == "Joe")
                 {
-                    //TODO: Add Joe entries to joeList
+                    joeList.Add(name); 
+                    Console.WriteLine(joeList);
+                    Console.ReadLine();
                 }
+                
             }
-            
 
-            ////3. Do the same thing again, but this time with a lambda expression.
 
-            //var joeList2 = EmployeeList.Where(x => string FName == "Joe");
+            //3. Do the same thing again, but this time with a lambda expression.
+
+            var joeList2 = EmployeeList.Where(x => x.FName == "Joe").ToList();
+
+            Console.WriteLine(joeList); //How to print out list? Only coming up with Systems.Collections.Generic.List'1[CSharpExercisePg140.Employee]
+            Console.ReadLine();
+
+
+            //4. Using a lambda expression, make a list of all employees with an Id number greater than 5.
+
+            var numList = EmployeeList.Where(x => x.IDNumber > 000005).ToList();
+
+            Console.WriteLine(numList);
+            Console.ReadLine();
         }
     }
 }
@@ -64,4 +69,3 @@ namespace CSharpExercisePg140
 
 
 
-//4. Using a lambda expression, make a list of all employees with an Id number greater than 5.
