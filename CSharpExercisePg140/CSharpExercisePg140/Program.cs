@@ -35,30 +35,36 @@ namespace CSharpExercisePg140
             
             foreach(Employee name in EmployeeList)
             {
+
                 if (name.FName == "Joe")
                 {
                     joeList.Add(name); 
-                    Console.WriteLine(joeList);
+                    Console.WriteLine("{0} , {1} , {2}", name.FName, name.LName, name.IDNumber); 
                     Console.ReadLine();
                 }
                 
             }
 
 
-            //3. Do the same thing again, but this time with a lambda expression.
+            //3.Do the same thing again, but this time with a lambda expression.
+            List <Employee> joeList2 = EmployeeList.Where(x => x.FName == "Joe").ToList();
 
-            var joeList2 = EmployeeList.Where(x => x.FName == "Joe").ToList();
+            foreach (Employee name in joeList2)
+            {
+                Console.WriteLine("{0} , {1} , {2}", name.FName, name.LName, name.IDNumber);
+                Console.ReadLine();
 
-            Console.WriteLine(joeList); //How to print out list? Only coming up with Systems.Collections.Generic.List'1[CSharpExercisePg140.Employee]
-            Console.ReadLine();
-
+            }
 
             //4. Using a lambda expression, make a list of all employees with an Id number greater than 5.
+            List<Employee> numberList = EmployeeList.Where(y => y.IDNumber > 000005).ToList();
 
-            var numList = EmployeeList.Where(x => x.IDNumber > 000005).ToList();
+            foreach (Employee name in numberList)
+            {
+                Console.WriteLine("{0} , {1} , {2}", name.FName, name.LName, name.IDNumber);
+                Console.ReadLine();
+            }
 
-            Console.WriteLine(numList);
-            Console.ReadLine();
         }
     }
 }
