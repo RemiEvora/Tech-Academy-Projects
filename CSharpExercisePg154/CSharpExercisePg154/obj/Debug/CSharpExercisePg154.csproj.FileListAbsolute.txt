@@ -1,0 +1,7 @@
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg154\CSharpExercisePg154\bin\Debug\CSharpExercisePg154.exe.config
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg154\CSharpExercisePg154\bin\Debug\CSharpExercisePg154.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg154\CSharpExercisePg154\bin\Debug\CSharpExercisePg154.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg154\CSharpExercisePg154\obj\Debug\CSharpExercisePg154.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg154\CSharpExercisePg154\obj\Debug\CSharpExercisePg154.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg154\CSharpExercisePg154\obj\Debug\CSharpExercisePg154.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg154\CSharpExercisePg154\obj\Debug\CSharpExercisePg154.pdb
