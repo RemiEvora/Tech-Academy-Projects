@@ -19,8 +19,8 @@ namespace TwentyOnePt6
             [Face.Eight] = 8, 
             [Face.Nine] = 9,
             [Face.Jack] = 10, 
-            [Face.Queen] = 11,
-            [Face.King] = 12, 
+            [Face.Queen] = 10,
+            [Face.King] = 10, 
             [Face.Ace] = 1
         };
 
