@@ -23,6 +23,9 @@ namespace CSharpExercisePg154
             //3. Print the text file back to the user. 
             string readNumber = File.ReadAllText(@"C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\logtest2.txt");
             Console.ReadLine();
+            
+            Console.WriteLine(File.ReadAllText(@"C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\logtest2.txt"));
+            Console.ReadLine();
         }
     }
 }
