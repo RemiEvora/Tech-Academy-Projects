@@ -1,0 +1,12 @@
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg156\bin\Debug\CSharpExercisePg156.exe.config
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg156\bin\Debug\CSharpExercisePg156.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg156\bin\Debug\CSharpExercisePg156.pdb
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg156\obj\Debug\CSharpExercisePg156.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg156\obj\Debug\CSharpExercisePg156.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg156\obj\Debug\CSharpExercisePg156.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg156\CSharpExercisePg156\bin\Debug\CSharpExercisePg156.exe.config
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg156\CSharpExercisePg156\bin\Debug\CSharpExercisePg156.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg156\CSharpExercisePg156\bin\Debug\CSharpExercisePg156.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg156\CSharpExercisePg156\obj\Debug\CSharpExercisePg156.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg156\CSharpExercisePg156\obj\Debug\CSharpExercisePg156.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg156\CSharpExercisePg156\obj\Debug\CSharpExercisePg156.pdb
