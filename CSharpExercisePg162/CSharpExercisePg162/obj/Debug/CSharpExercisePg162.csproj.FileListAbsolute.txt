@@ -1,0 +1,14 @@
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg162\bin\Debug\CSharpExercisePg162.exe.config
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg162\bin\Debug\CSharpExercisePg162.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg162\bin\Debug\CSharpExercisePg162.pdb
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg162\obj\Debug\CSharpExercisePg162.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg162\obj\Debug\CSharpExercisePg162.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg162\obj\Debug\CSharpExercisePg162.exe
+C:\Users\Rembrandt.Evora\AppData\Local\Temporary Projects\CSharpExercisePg162\obj\Debug\CSharpExercisePg162.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg162\CSharpExercisePg162\bin\Debug\CSharpExercisePg162.exe.config
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg162\CSharpExercisePg162\bin\Debug\CSharpExercisePg162.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg162\CSharpExercisePg162\bin\Debug\CSharpExercisePg162.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg162\CSharpExercisePg162\obj\Debug\CSharpExercisePg162.csprojAssemblyReference.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg162\CSharpExercisePg162\obj\Debug\CSharpExercisePg162.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg162\CSharpExercisePg162\obj\Debug\CSharpExercisePg162.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\CSharpExercisePg162\CSharpExercisePg162\obj\Debug\CSharpExercisePg162.pdb
