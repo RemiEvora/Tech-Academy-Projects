@@ -1,0 +1,5 @@
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\Casino\bin\Debug\Casino.dll
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\Casino\bin\Debug\Casino.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\Casino\obj\Debug\Casino.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\Casino\obj\Debug\Casino.dll
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\Casino\obj\Debug\Casino.pdb

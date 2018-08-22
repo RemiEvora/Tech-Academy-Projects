@@ -1,0 +1,8 @@
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\TwentyOnePt8\bin\Debug\TwentyOnePt8.exe.config
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\TwentyOnePt8\bin\Debug\TwentyOnePt8.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\TwentyOnePt8\bin\Debug\TwentyOnePt8.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\TwentyOnePt8\obj\Debug\TwentyOnePt8.csproj.CoreCompileInputs.cache
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\TwentyOnePt8\obj\Debug\TwentyOnePt8.csproj.CopyComplete
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\TwentyOnePt8\obj\Debug\TwentyOnePt8.exe
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\TwentyOnePt8\obj\Debug\TwentyOnePt8.pdb
+C:\Users\Rembrandt.Evora\Desktop\2018 Tech Academy Bootcamp\C# & .NET Framework Course Documents\Tutorial Projects\TwentyOnePt8\TwentyOnePt8\obj\Debug\TwentyOnePt8.csprojAssemblyReference.cache
