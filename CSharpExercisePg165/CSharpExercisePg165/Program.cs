@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -22,10 +22,18 @@ namespace CSharpExercisePg165
                 var todayDate = DateTime.Now;
                 var userYears = todayDate.AddYears(-userAge);
 
+                if (userAge == 0)
+                {
+                    throw new ZeroException();
+                }
 
-            
-                //2.Display the year user born.
-                Console.WriteLine("I believe you were born in {0:yyyy}, is that right?", userYears);
+                if (userAge < 0)
+                {
+                    throw new NegativeException();
+                }
+
+                    //2.Display the year user born.
+                    Console.WriteLine("I believe you were born in {0:yyyy}, is that right?", userYears);
                 Console.ReadLine();
             }
 
@@ -34,22 +42,16 @@ namespace CSharpExercisePg165
             //5.Display a general message if exception caused by anything else.
 
             catch (ZeroException)
-            {
-                if (userAge == 0)
-                {
+            { 
                     Console.WriteLine("Zero entered. Please enter a valid age.");
                     Console.ReadLine();
-                    return;
-                }
+                    return;           
             }
             catch (NegativeException)
             {
-                if (userAge < 0)
-                {
                     Console.WriteLine("Negative value entered. Please enter a valid age.");
                     Console.ReadLine();
-                    return;
-                }
+                    return;            
             }
             
             catch (Exception)
@@ -61,6 +63,10 @@ namespace CSharpExercisePg165
         }
     }
 }
+
+
+
+
 
 
 
